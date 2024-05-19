@@ -53,8 +53,6 @@ To get a local copy up and running, follow these steps:
 
 - Use the arrow keys to move the spaceship left and right.
 - Press the spacebar to shoot at the incoming aliens.
-- Destroy all aliens to advance to the next level.
-- Avoid getting hit by enemy fire or letting the aliens reach the bottom of the screen.
 
 ## Contributing
 
@@ -81,8 +79,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 
-For any inquiries or feedback, please contact [your name] at [your email address].
+For any inquiries or feedback, please contact me at anhtubui574@gmail.com
 
 ---
 
-Thank you for checking out the Space Invaders Clone project! Enjoy the game and happy coding!
+Thank you for checking out the Space Invaders Clone project! 

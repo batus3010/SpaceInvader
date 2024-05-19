@@ -20,8 +20,6 @@ This project is a clone of the classic arcade game Space Invaders. It serves as 
 
 - Classic Space Invaders gameplay
 - Player-controlled spaceship
-- Waves of enemy aliens
-- Increasing difficulty levels
 - Score tracking
 
 ## Installation
@@ -31,30 +29,23 @@ To get a local copy up and running, follow these steps:
 ### Prerequisites
 
 - Visual Studio (preferably the latest version)
-- .NET Framework
+- .NET Framework (target network for this project is .NET 6.0)
 - MonoGame SDK
 
 ### Steps
 
 1. **Clone the repository**
     ```sh
-    git clone https://github.com/yourusername/space-invaders-clone.git
+    git clone https://github.com/batus3010/space-invaders-clone.git
     ```
 2. **Open the project in Visual Studio**
     - Launch Visual Studio.
     - Open the solution file `SpaceInvadersClone.sln`.
 
-3. **Restore NuGet packages**
-    - Go to `Tools` > `NuGet Package Manager` > `Package Manager Console`.
-    - Run the following command to restore the required packages:
-      ```sh
-      nuget restore
-      ```
-
-4. **Build the project**
+3. **Build the project**
     - Press `Ctrl + Shift + B` or navigate to `Build` > `Build Solution`.
 
-5. **Run the game**
+4. **Run the game**
     - Press `F5` or navigate to `Debug` > `Start Debugging`.
 
 ## Usage

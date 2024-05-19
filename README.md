@@ -37,7 +37,7 @@ To get a local copy up and running, follow these steps:
 
 1. **Clone the repository**
     ```sh
-    git clone https://github.com/batus3010/space-invaders-clone.git
+    git clone https://github.com/batus3010/SpaceInvader.git
     ```
 2. **Open the project in Visual Studio**
     - Launch Visual Studio.

@@ -2,6 +2,7 @@
 
 Welcome to the Space Invaders Clone project! This is a replica of the classic Space Invaders game, developed using C# and MonoGame. The project is built using Visual Studio.
 
+![gameplayImg](https://github.com/batus3010/SpaceInvader/blob/main/images/gameplay.png)
 ## Table of Contents
 
 - [Introduction](#introduction)
